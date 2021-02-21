@@ -1,0 +1,32 @@
+.message{
+    width: fit-content;
+    padding: 0px;
+    margin: 10px;
+}
+.message__user{
+    margin-left: auto;
+    color: white;
+    text-align: left !important;
+}
+.message__userCard{
+    background-color: #0b81ff !important;
+    background: linear-gradient(90deg, rgb(89, 81, 119) 0%, rgba(0,212,255,1) 100%);
+    display: flex;
+    flex-direction: column !important;
+    color: white !important;
+    text-align: right !important;
+    justify-content: right;
+  
+   
+}
+.message__guestCard{
+    background-color: #e9e9eb !important;
+}
+.typography{
+    font-size: 15px !important;
+}
+.user-para{
+    color: rgb(71, 8, 66);
+    font-size: 10px !important;
+    text-align: left !important;
+}
